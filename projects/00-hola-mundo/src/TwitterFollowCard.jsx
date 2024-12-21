@@ -3,7 +3,6 @@ import { useState } from "react";
 export const TwitterFollowCard = ({
   children,
   userName,
-  name,
   initialIsFollowing,
 }) => {
   const [isFollowing, setIsFollowing] = useState(initialIsFollowing);
@@ -39,7 +38,7 @@ export const TwitterFollowCard = ({
           alt="mrjouts"
         />
         <div className="tw-followCard-info">
-          <strong>{children || name}</strong>
+          <strong>{children}</strong>
           <span className="tw-followCard-infoUserName">@{userName}</span>
         </div>
       </header>
