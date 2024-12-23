@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  padding: .5em;
+  gap: .5em;
+
+  .productName {
+    padding: 0.6em 1.2em;
+    min-width: 100px;
+    text-align-last: left;
+    font-weight: 500;
+  }
+
+  .count {
+    padding: 0.6em;
+  }
+
+  .price {
+    padding: 0.6em 1.2em;
+    min-width: 100px;
+    text-align: right;
+  }
+}
