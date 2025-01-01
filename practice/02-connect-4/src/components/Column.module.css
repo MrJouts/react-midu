@@ -1,0 +1,31 @@
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  .cell {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 24px;
+    aspect-ratio: 1;
+    background-color: var(--background-checker-color);
+    border-radius: 50%;
+
+    &.red {
+      background-color: var(--checker-red);
+    }
+
+    &.yellow {
+      background-color: var(--checker-yellow);
+    }
+  }
+
+  &:hover {
+    .cell:not(.red):not(.yellow) {
+      background: var(--background-checker-color-hover);
+
+    }
+  }
+}

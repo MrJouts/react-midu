@@ -1,3 +1,5 @@
+@import url("css/variables.css");
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -19,49 +21,23 @@
     display: block;
 
     &.yellow {
-      background: #fcbb2c;
+      background: var(--checker-yellow);
     }
 
     &.red {
-      background: #de002b;
+      background: var(--checker-red);
     }
   }
 }
 
 .board {
-  background-color: #00568f;
+  background-color: var(--background-board-color);
   border-radius: 20px;
-  padding-inline: 20px;
+  padding: 30px 15px;
   display: flex;
+  gap: 10px;
 
-  .column {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 20px 5px;
-
-    &:hover {
-      background-color: #0070bb;
-      cursor: pointer;
-    }
-
-    .cell {
-      display: inline-block;
-      width: 50px;
-      height: 50px;
-      line-height: 50px;
-      font-size: 24px;
-      aspect-ratio: 1;
-      background-color: #fff;
-      border-radius: 50%;
-
-      &.red {
-        background-color: #de002b;
-      }
-
-      &.yellow {
-        background-color: #fcbb2c;
-      }
-    }
+  &:hover {
+    cursor: pointer;
   }
 }
