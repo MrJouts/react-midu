@@ -34,6 +34,12 @@ function App() {
     }
   };
 
+  const resetGame = () => {
+    setBoard(BOARD);
+    setTurn(TURN.RED);
+    setWinner(null);
+  }
+
   return (
     <>
       <div className="player-turn">
@@ -51,7 +57,7 @@ function App() {
         ))}
       </div>
 
-      <Winner winner={winner} />
+      <Winner winner={winner} resetGame={resetGame} />
     </>
   );
 }
