@@ -11,17 +11,21 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  cursor: crosshair;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  padding: 15px 25px;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   position: relative;
-  box-sizing: border-box;
 }
 
 button {
@@ -60,16 +64,31 @@ button:focus-visible {
   }
 }
 
-.square {
+.target {
   width: 50px;
-  background-color: red;
+  background-color: #AED6F1;
   aspect-ratio: 1 / 1;
   border-radius: 50%;
   position: absolute;
+  z-index: 100;
+  transition: all 0.1s;
+
+  &:hover {
+    background-color: #85C1E9;
+  }
 }
 
 .scoreCard {
   position: absolute;
   top: 20px;
   left: 40px;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24vw;
+  font-weight: bold;
+  opacity: .1;
 }

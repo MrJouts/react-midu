@@ -1,88 +1,50 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import { getRandomPosition } from "./logic/getRandomPosition";
+import { useCountDown } from "./hooks/useCountDown";
+import { GAME_INITAL_STATE, GAME_STATUS } from "./model/constants";
+import { Counter } from "./components/Counter";
+import { GameOver } from "./components/GameOver";
+import { Circle } from "./components/Circle";
 
 import "./App.css";
 
-const GAME_STATUS = {
-  READY: "ready",
-  PLAYING: "playing",
-  FINISHED: "finished",
-};
-
 function App() {
   const [gameStatus, setGameStatus] = useState(GAME_STATUS.READY);
-  const [position, setPosition] = useState({ x: 0, y: 0 });
-  const [score, setScore] = useState(0);
-  const [count, setCount] = useState(5);
-
-  useEffect(() => {
-    if (count === 0) {
-      setGameStatus(GAME_STATUS.FINISHED);
-    }
-  }, [count]);
-
-  const getRandomNumber = (min, max) => {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-  };
-
-  const startCountDown = () => {
-    const interval = setInterval(() => {
-      setCount((prevCount) => {
-        if (prevCount === 0) {
-          clearInterval(interval);
-          return 0;
-        }
-        return prevCount - 1;
-      });
-    }, 1000);
-  };
+  const [position, setPosition] = useState(GAME_INITAL_STATE.position);
+  const [score, setScore] = useState(GAME_INITAL_STATE.score);
+  const { count, setCount, startCountDown } = useCountDown(
+    GAME_INITAL_STATE.count,
+    () => setGameStatus(GAME_STATUS.FINISHED)
+  );
 
   const clickCircle = () => {
     setScore(score + 1);
-    setPosition({
-      x: getRandomNumber(0, window.innerWidth - 50),
-      y: getRandomNumber(0, window.innerHeight - 50),
-    });
+    setPosition(getRandomPosition());
   };
 
   const restart = () => {
     setScore(0);
-    setCount(7);
+    setCount(5);
     startCountDown();
     setGameStatus(GAME_STATUS.PLAYING);
-    setPosition({
-      x: getRandomNumber(0, window.innerWidth - 50),
-      y: getRandomNumber(0, window.innerHeight - 50),
-    });
+    setPosition(getRandomPosition());
   };
 
   return (
     <>
-      <div className="scoreCard">
-        <p>score: {score}</p>
-        <p>Countdown: {count}</p>
-      </div>
-
       {gameStatus === GAME_STATUS.READY && (
-        <button onClick={() => restart()}>start game</button>
+        <button onClick={() => restart()}>Start game</button>
       )}
 
       {gameStatus === GAME_STATUS.PLAYING && (
-        <div
-          onClick={() => clickCircle()}
-          className="square"
-          style={{
-            right: `${position.x}px`,
-            bottom: `${position.y}px`,
-          }}
-        />
+        <>
+          <Circle position={position} onClick={clickCircle} />
+          <Counter count={count} />
+        </>
       )}
 
       {gameStatus === GAME_STATUS.FINISHED && (
-        <div>
-          <h1>Game Over</h1>
-          <p>Score: {score}</p>
-          <button onClick={() => restart()}>start again</button>
-        </div>
+        <GameOver score={score} restart={restart} />
       )}
     </>
   );
