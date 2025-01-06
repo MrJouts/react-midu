@@ -1,24 +1,30 @@
 import { useEffect, useState } from 'react'
-import weatherMockedData from "./models/wheater-mock.json"
+// import weatherMockedData from "./models/wheater-mock.json"
+import { Card } from './components/Card';
 
 import './App.css'
 
 function App() {
-
-  const [weatherData, setWeatherData] = useState(weatherMockedData);
+  const [weatherData, setWeatherData] = useState({
+    temperature: "",
+    description: "",
+    icon: "",
+    city: "",
+    feelsLike: "",
+    tempMax: "",
+    tempMin: "",
+    windSpeed: "",
+    humidity: "",
+    timezone: 0
+  });
 
   useEffect(() => {
     navigator.geolocation.getCurrentPosition((position) => {
-      console.log({ position })
-      console.log('Latitude is :', position.coords.latitude)
-      console.log('Longitude is :', position.coords.longitude)
-
-      // fetch(`http://localhost:3000?lat=${position.coords.latitude}&lon=${position.coords.longitude}`)
-      //   .then((response) => response.json())
-      //   .then((data) => {
-      //     console.log(data)
-      //   })
-
+      fetch(`http://localhost:3000?lat=${position.coords.latitude}&lon=${position.coords.longitude}`)
+        .then((response) => response.json())
+        .then((data) => {
+          setWeatherData(data)
+        })
     }, (error) => {
       console.log(error.message)
     })
@@ -26,45 +32,8 @@ function App() {
 
   return (
     <main>
-      <h1>Wheater API</h1>
-
       <section>
-
-        <div className="card">
-
-          <div className="cardHeader">
-
-            <div className="tempWrapper">
-              <img src="sun.png" alt="sun" />
-              <div className="temp">
-                {weatherData.temperature}
-                <span>C</span>
-              </div>
-            </div>
-
-            <div className="dateWrapper">
-              <span>Viernes, 11:00pm</span>
-              <span>{weatherData.description}</span>
-            </div>
-          </div>
-
-          <div className="details">
-            <ul>
-              <li>
-                <span>Sensación</span>
-                <span>{weatherData.feelsLike}</span>
-              </li>
-              <li>
-                <span>Viento</span>
-                <span>{weatherData.windSpeed}</span>
-              </li>
-              <li>
-                <span>Humedad</span>
-                <span>{weatherData.humidity}</span>
-              </li>
-            </ul>
-          </div>
-        </div>
+        <Card weatherData={weatherData} />
       </section>
     </main>
   )

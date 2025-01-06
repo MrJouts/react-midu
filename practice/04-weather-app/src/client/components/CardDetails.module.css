@@ -1,0 +1,29 @@
+.details {
+  padding: 15px 20px;
+}
+
+.details ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.details ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1 1 100%;
+}
+
+.details span:first-of-type {
+  line-height: 100%;
+  opacity: .7;
+  font-size: 14px;
+}
+
+.details span+span {
+  font-weight: bold;
+  font-size: 18px;
+}

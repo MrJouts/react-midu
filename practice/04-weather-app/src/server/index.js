@@ -31,7 +31,7 @@ app.get("/", (req, res) => {
         feelsLike: getParsedTemperature(feels_like),
         tempMax: getParsedTemperature(temp_max),
         tempMin: getParsedTemperature(temp_min),
-        windSpeed: windSpeed + " k/m",
+        windSpeed: Math.round(windSpeed  * 3.6) + " k/m",
         humidity: humidity + "%",
         timezone,
       };
