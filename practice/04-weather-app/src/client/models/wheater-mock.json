@@ -1,0 +1,12 @@
+{
+  "temperature": "21°",
+  "description": "Cielo limpio",
+  "icon": "01n",
+  "city": "Caballito",
+  "feelsLike": "20°",
+  "tempMax": "21°",
+  "tempMin": "17°",
+  "windSpeed": "8.05 k/m",
+  "humidity": "46%",
+  "timezone": -10800
+}

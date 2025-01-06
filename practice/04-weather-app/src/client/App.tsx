@@ -1,41 +1,72 @@
-import { useEffect } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useEffect, useState } from 'react'
+import weatherMockedData from "./models/wheater-mock.json"
+
 import './App.css'
 
 function App() {
 
+  const [weatherData, setWeatherData] = useState(weatherMockedData);
 
   useEffect(() => {
     navigator.geolocation.getCurrentPosition((position) => {
       console.log({ position })
       console.log('Latitude is :', position.coords.latitude)
       console.log('Longitude is :', position.coords.longitude)
+
+      // fetch(`http://localhost:3000?lat=${position.coords.latitude}&lon=${position.coords.longitude}`)
+      //   .then((response) => response.json())
+      //   .then((data) => {
+      //     console.log(data)
+      //   })
+
     }, (error) => {
       console.log(error.message)
     })
   }, [])
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Geolocation API</h1>
-      <div className="card">
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <main>
+      <h1>Wheater API</h1>
+
+      <section>
+
+        <div className="card">
+
+          <div className="cardHeader">
+
+            <div className="tempWrapper">
+              <img src="sun.png" alt="sun" />
+              <div className="temp">
+                {weatherData.temperature}
+                <span>C</span>
+              </div>
+            </div>
+
+            <div className="dateWrapper">
+              <span>Viernes, 11:00pm</span>
+              <span>{weatherData.description}</span>
+            </div>
+          </div>
+
+          <div className="details">
+            <ul>
+              <li>
+                <span>Sensación</span>
+                <span>{weatherData.feelsLike}</span>
+              </li>
+              <li>
+                <span>Viento</span>
+                <span>{weatherData.windSpeed}</span>
+              </li>
+              <li>
+                <span>Humedad</span>
+                <span>{weatherData.humidity}</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
   )
 }
 

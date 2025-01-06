@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -58.4517,
+    "lat": -34.6294
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.1,
+    "feels_like": 20.47,
+    "temp_min": 17.88,
+    "temp_max": 21.82,
+    "pressure": 1008,
+    "humidity": 46,
+    "sea_level": 1008,
+    "grnd_level": 1007
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 8.05,
+    "deg": 240,
+    "gust": 0
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1735876577,
+  "sys": {
+    "type": 2,
+    "id": 2092396,
+    "country": "AR",
+    "sunrise": 1735893971,
+    "sunset": 1735945817
+  },
+  "timezone": -10800,
+  "id": 3435874,
+  "name": "Caballito",
+  "cod": 200
+}
