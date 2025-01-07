@@ -1,9 +1,12 @@
+import dayjs from "dayjs";
+
 import styles from "./CardHeader.module.css";
 
-export const CardHeader = ({ temperature, description, icon }: {
+export const CardHeader = ({ temperature, description, icon, city }: {
   temperature: string;
   description: string;
   icon: string;
+  city: string;
 }) => {
   const capitalize = (str: string) =>
     str.charAt(0).toUpperCase() + str.slice(1)
@@ -20,7 +23,8 @@ export const CardHeader = ({ temperature, description, icon }: {
         </div>
       </div>
       <div className={styles.infoWrapper}>
-        <span>Viernes, 11:00p.m.</span>
+        <strong>{capitalize(city)}</strong>
+        <span>{capitalize(dayjs().format("dddd, h:mm a"))}</span>
         <span>{capitalize(description)}</span>
       </div>
     </div>

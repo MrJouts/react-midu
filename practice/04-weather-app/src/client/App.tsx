@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { getWeather } from './services/Weather';
 import { Card } from './components/Card';
 import { initialWeatherInfo } from './models/WeaterInfo';
+import "./utils/dayjs";
 
 import './App.css'
 

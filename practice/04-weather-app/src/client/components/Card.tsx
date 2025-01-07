@@ -7,11 +7,11 @@ import styles from "./Card.module.css";
 export const Card = ({ weatherInfo }: {
   weatherInfo: WeatherInfo;
 }) => {
-  const { temperature, description, icon, feelsLike, windSpeed, humidity } = weatherInfo;
+  const { temperature, description, icon, city, feelsLike, windSpeed, humidity } = weatherInfo;
 
   return (
     <div className={styles.card}>
-      <CardHeader temperature={temperature} description={description} icon={icon} />
+      <CardHeader temperature={temperature} description={description} icon={icon} city={city} />
       <CardDetails feelsLike={feelsLike} windSpeed={windSpeed} humidity={humidity} />
     </div>
   )
