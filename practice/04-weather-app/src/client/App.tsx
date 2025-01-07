@@ -1,30 +1,16 @@
 import { useEffect, useState } from 'react'
-// import weatherMockedData from "./models/wheater-mock.json"
+import { getWeather } from './services/Weather';
 import { Card } from './components/Card';
+import { initialWeatherInfo } from './models/WeaterInfo';
 
 import './App.css'
 
 function App() {
-  const [weatherData, setWeatherData] = useState({
-    temperature: "",
-    description: "",
-    icon: "",
-    city: "",
-    feelsLike: "",
-    tempMax: "",
-    tempMin: "",
-    windSpeed: "",
-    humidity: "",
-    timezone: 0
-  });
+  const [weatherInfo, setWeatherInfo] = useState(initialWeatherInfo);
 
   useEffect(() => {
-    navigator.geolocation.getCurrentPosition((position) => {
-      fetch(`http://localhost:3000?lat=${position.coords.latitude}&lon=${position.coords.longitude}`)
-        .then((response) => response.json())
-        .then((data) => {
-          setWeatherData(data)
-        })
+    getWeather().then((data) => {
+      setWeatherInfo(data);
     }, (error) => {
       console.log(error.message)
     })
@@ -33,7 +19,7 @@ function App() {
   return (
     <main>
       <section>
-        <Card weatherData={weatherData} />
+        <Card weatherInfo={weatherInfo} />
       </section>
     </main>
   )

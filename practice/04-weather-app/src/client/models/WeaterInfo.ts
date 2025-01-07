@@ -10,3 +10,16 @@ export interface WeatherInfo {
   humidity: string;
   timezone: number;
 }
+
+export const initialWeatherInfo: WeatherInfo = {
+  temperature: "",
+  description: "",
+  icon: "",
+  city: "",
+  feelsLike: "",
+  tempMax: "",
+  tempMin: "",
+  windSpeed: "",
+  humidity: "",
+  timezone: 0,
+};
