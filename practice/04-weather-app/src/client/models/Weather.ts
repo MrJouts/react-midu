@@ -1,4 +1,4 @@
-export interface WeatherInfo {
+export interface CurrentWeather {
   temperature: string;
   description: string;
   icon: string;
@@ -11,7 +11,7 @@ export interface WeatherInfo {
   timezone: number;
 }
 
-export const initialWeatherInfo: WeatherInfo = {
+export const initialWeatherInfo: CurrentWeather = {
   temperature: "",
   description: "",
   icon: "",

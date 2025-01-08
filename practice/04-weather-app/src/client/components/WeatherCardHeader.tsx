@@ -1,8 +1,8 @@
 import dayjs from "dayjs";
 
-import styles from "./CardHeader.module.css";
+import styles from "./WeatherCardHeader.module.css";
 
-export const CardHeader = ({ temperature, description, icon, city }: {
+export const WeatherCardHeader = ({ temperature, description, icon, city }: {
   temperature: string;
   description: string;
   icon: string;
@@ -24,7 +24,7 @@ export const CardHeader = ({ temperature, description, icon, city }: {
       </div>
       <div className={styles.infoWrapper}>
         <strong>{capitalize(city)}</strong>
-        <span>{capitalize(dayjs().format("dddd, h:mm a"))}</span>
+        <span>{dayjs().format("dddd, h:mm a")}</span>
         <span>{capitalize(description)}</span>
       </div>
     </div>

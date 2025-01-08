@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2025-01-07",
+    "icon": "03d",
+    "tempMax": "26°",
+    "tempMin": "24°"
+  },
+  {
+    "date": "2025-01-08",
+    "icon": "01d",
+    "tempMax": "30°",
+    "tempMin": "22°"
+  },
+  {
+    "date": "2025-01-09",
+    "icon": "03d",
+    "tempMax": "31°",
+    "tempMin": "22°"
+  },
+  {
+    "date": "2025-01-10",
+    "icon": "04d",
+    "tempMax": "29°",
+    "tempMin": "24°"
+  },
+  {
+    "date": "2025-01-11",
+    "icon": "01d",
+    "tempMax": "27°",
+    "tempMin": "22°"
+  },
+  {
+    "date": "2025-01-12",
+    "icon": "01d",
+    "tempMax": "23°",
+    "tempMin": "21°"
+  }
+]

@@ -1,24 +1,33 @@
-const USE_MOCK_JSON = process.env.NODE_ENV === "development";
+const USE_MOCK_JSON = process.env.NODE_ENV === "developmesnt";
 
 import weatherMockedData from "./weather-mock.json";
+import forecastMockedData from "./forecas-mock.json";
 
-export const getWeather = async () => {
-  if (USE_MOCK_JSON) {
-    return new Promise((resolve) => {
-      resolve(weatherMockedData);
-    });
-  }
-
-  const position = await new Promise<GeolocationPosition>((resolve, reject) => {
+const getGeolocationPosition = async (): Promise<GeolocationPosition> => {
+  return new Promise((resolve, reject) => {
     navigator.geolocation.getCurrentPosition(resolve, reject);
   });
+};
+
+const fetchData = async (endpoint: string, mockData: any) => {
+  if (USE_MOCK_JSON) {
+    return Promise.resolve(mockData);
+  }
 
   const {
     coords: { latitude, longitude },
-  } = position;
+  } = await getGeolocationPosition();
 
   const response = await fetch(
-    `http://localhost:3000?lat=${latitude}&lon=${longitude}`
+    `http://localhost:3000/${endpoint}?lat=${latitude}&lon=${longitude}`
   );
-  return await response.json();
+  return response.json();
+};
+
+export const getWeather = async () => {
+  return fetchData("weather", weatherMockedData);
+};
+
+export const getForecast = async () => {
+  return fetchData("forecast", forecastMockedData);
 };

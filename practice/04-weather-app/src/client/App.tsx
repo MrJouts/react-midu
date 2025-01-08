@@ -1,17 +1,29 @@
 import { useEffect, useState } from 'react'
-import { getWeather } from './services/Weather';
-import { Card } from './components/Card';
-import { initialWeatherInfo } from './models/WeaterInfo';
+import { getForecast, getWeather } from './services/Weather';
+import { initialWeatherInfo } from './models/Weather';
+import { ForecastItemInfo } from './models/Forecast';
+import { WeatherCard } from './components/WeatherCard';
+import { ForecastCard } from './components/ForecastCard';
 import "./utils/dayjs";
 
 import './App.css'
 
 function App() {
-  const [weatherInfo, setWeatherInfo] = useState(initialWeatherInfo);
+  const [currentWeatherInfo, setcurrentWeather] = useState(initialWeatherInfo);
+  const [forecastFiveDays, setForecastFiveDays] = useState<ForecastItemInfo[]>([]);
 
   useEffect(() => {
     getWeather().then((data) => {
-      setWeatherInfo(data);
+      setcurrentWeather(data);
+    }, (error) => {
+      console.error("Failed to fetch weather data:", error.message);
+    })
+  }, [])
+
+  useEffect(() => {
+    getForecast().then((data) => {
+      setForecastFiveDays(data);
+      console.log(data)
     }, (error) => {
       console.log(error.message)
     })
@@ -20,7 +32,8 @@ function App() {
   return (
     <main>
       <section>
-        <Card weatherInfo={weatherInfo} />
+        <WeatherCard weatherInfo={currentWeatherInfo} />
+        <ForecastCard forecastFiveDays={forecastFiveDays} />
       </section>
     </main>
   )

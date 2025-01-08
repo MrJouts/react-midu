@@ -1,6 +1,6 @@
-import styles from './CardDetails.module.css';
+import styles from './WeatherCardDetails.module.css';
 
-export const CardDetails = ({ feelsLike, windSpeed, humidity }: {
+export const WeatherCardDetails = ({ feelsLike, windSpeed, humidity }: {
   feelsLike: string;
   windSpeed: string;
   humidity: string;
