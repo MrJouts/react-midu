@@ -1,10 +1,13 @@
 import "dotenv/config";
 import express from "express";
+import cors from "cors";
 import { transformWeather } from "./transformers/transformWeather.js";
 import { transformForecast } from "./transformers/transformForecast.js";
 
 const app = express();
 const port = 3000;
+
+app.use(cors());
 
 const buildWeatherUrl = ({ lat, lon, path }) => {
   const weatherUlr = new URL(path, `https://api.openweathermap.org/data/2.5/`);
