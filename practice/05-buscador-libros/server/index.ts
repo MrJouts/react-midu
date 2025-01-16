@@ -1,10 +1,16 @@
 import express from "express";
+import axios from "axios";
 
 const app = express();
 
-app.get("/", (req, res) => {
-  req.params;
-  res.send("Hello World");
+app.get("/volumes", (req: express.Request, res: express.Response) => {
+  const { q } = req.query;
+
+  axios
+    .get(`https://www.googleapis.com/books/v1/volumes?q=${q}`)
+    .then((response) => {
+      res.send(response.data);
+    });
 });
 
 app.listen(3000, () => {

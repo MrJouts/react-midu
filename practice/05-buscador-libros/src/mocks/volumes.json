@@ -1,0 +1,2983 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1058,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m0o3EQAAQBAJ",
+      "etag": "IgFBDoPN/V4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m0o3EQAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter: La colección completa",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Aucreative",
+        "description": "Los siete libros electrónicos de Harry Potter, una de las series más premiadas y vendidas en todo el mundo. El argumento de la serie se centra en las aventuras de Harry Potter y sus amigos Hermione Granger y Ron Weasley durante los años que pasan en el Colegio Hogwarts de Magia y Hechicería, así como la lucha entre Harry y el mago tenebroso lord Voldemort. Disfruta de las historias que han despertado la imaginación de millones de lectores de todo el mundo.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 4162,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m0o3EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m0o3EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=m0o3EQAAQBAJ&pg=PT1729&dq=harry&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m0o3EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m0o3EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.32,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 4.32,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m0o3EQAAQBAJ&rdid=book-m0o3EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4320000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 4320000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m0o3EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> ... Ahora suéltalo . Dumbledore se inclinó y , con extraordinaria fuerza para tratarse de un hombre tan viejo y delgado , levantó a <b>Harry</b> del suelo y lo puso en pie . <b>Harry</b> se tambaleó . Le iba a estallar la cabeza . La pierna&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h6kGEQAAQBAJ",
+      "etag": "Amz7DoPGGIc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h6kGEQAAQBAJ",
+      "volumeInfo": {
+        "title": "LEGO Harry Potter Enciclopedia de personajes",
+        "authors": [
+          "DK"
+        ],
+        "publisher": "DK",
+        "publishedDate": "2024-05-16",
+        "description": "Conoce más de 200 minifiguras del mundo LEGO Harry Potter, ¡incluida una nueva minifigura exclusiva para añadir a tu colección! Ya sean magos, muggles, amigos o enemigos, descubre todos los estudiantes y profesores de Hogwarts, así como criaturas y otros personajes. Conoce a los amigos de Harry , Ron, Hermione y Ginny; los profesores de Hogwarts, incluidos Dumbledore, Snape, McGonagall y Sprout; además de Hagrid, Dobby y otros personajes populares del Mundo Mágico. Puedes conocer todas las minifiguras LEGO Harry Potter más populares, así como minifiguras raras y únicas que quizás nunca hayas visto antes en la Enciclopedia de personajes LEGO Harry Potter, el manual definitivo para los fans de LEGO Harry Potter. © & TM Warner Bros. Entertainment Inc. Publishing Rights © JKR. (s23). ©2023 The LEGO Group.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241724590"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0241724597"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h6kGEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h6kGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=h6kGEQAAQBAJ&pg=PA159&dq=harry&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=h6kGEQAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/LEGO_Harry_Potter_Enciclopedia_de_person.html?hl=&id=h6kGEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/LEGO_Harry_Potter_Enciclopedia_de_person-sample-epub.acsm?id=h6kGEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/LEGO_Harry_Potter_Enciclopedia_de_person-sample-pdf.acsm?id=h6kGEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h6kGEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "DK. <b>HARRY</b> POTTER Y EL MISTERIO DEL PRÍNCIPETM <b>Harry</b> Potter AGENTE DE DUMBLEDORE Por el otro lado, la cara tiene un dibujo exclusivo de <b>Harry</b> asustado EN LA PRIMERA VISITA a Hogsmeade en sexto, <b>Harry</b> y sus amigos llevan ropa de calle y&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fQBiAwAAQBAJ",
+      "etag": "4MloikDs0/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fQBiAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter y la Biblia",
+        "subtitle": "La amenaza tras la magia",
+        "authors": [
+          "Richard Abanes"
+        ],
+        "publisher": "Vida",
+        "publishedDate": "2015-03-24",
+        "description": "Harry Potter y sus aventuras mágicas en una escuela de hechicería continúa cautivando a millones de personas mundialmente. El mercado ha sido inundado con un centenar de productos relacionados a esta historia: juegos de barajas, ropa y hasta muebles para el hogar.Sin embargo, unas cuantas preguntas al respecto deben ser formuladas:* Ofrece Harry Potter alguna moraleja positiva para los niños de hoy?* La hechicería de Harry es verdaderamente ficción o esta basada en el ocultismo?* Cómo se compara Harry Potter a otros libros de ficción para niños escritos por C.S. Lewis o J.R.R. Tolkien?En este libro amigable y de gran ayuda, Richard Abanes responde a estas interrogantes, analiza profundamente a una sociedad que tiende a volcarse al paganismo y examina la razón de por qué Dios dijo \"no\" al ocultismo.Harry Potter y la Biblia le ayudará a decidir sabiamente respecto a este tema para su familia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780829777437"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0829777431"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fQBiAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fQBiAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=fQBiAwAAQBAJ&pg=PT200&dq=harry&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fQBiAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fQBiAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 3.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fQBiAwAAQBAJ&rdid=book-fQBiAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 3990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Harry_Potter_y_la_Biblia-sample-epub.acsm?id=fQBiAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Harry_Potter_y_la_Biblia-sample-pdf.acsm?id=fQBiAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fQBiAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> Potter y el cáliz de fuego había llegado a ser «el libro en audio que se ha vendido más rápidamente que cualquier otro, en las categorías de niños o de adultos» (Shannon Maughan, «All Ears On <b>Harry</b>», Publishers Weekly, julio 24&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o887BAAAQBAJ",
+      "etag": "sHb9NTIqgTo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o887BAAAQBAJ",
+      "volumeInfo": {
+        "title": "El leopardo (Harry Hole 8)",
+        "authors": [
+          "Jo Nesbo"
+        ],
+        "publisher": "RESERVOIR BOOKS",
+        "publishedDate": "2014-10-02",
+        "description": "«El rey indiscutido de la novela negra» ( El Mundo ), con 50 millones de lectores en 50 idiomas, presenta el octavo caso de Harry Hole. Tras el horror que supuso la resolución de su último caso, Harry Hole abandonó Oslo y el cuerpo policial. Ahora se ha visto obligado a regresar por cuestiones familiares y porque se sospecha que un asesino en serie anda suelto en Noruega y solo Hole es capaz de llevar a cabo la investigación. Tras asesinar a varias mujeres de forma cruel, Hole tendrá que viajar a África para descubrir el origen de La Manzana de Leopoldo, un terrorífico instrumento de tortura jamás visto. El asesino parece estar jugando con la policía y con Hole, y se sospecha que quiere matar a un grupo de personas que pasaron una noche en una cabaña en la alta montaña noruega. Hole es el único policía que parece ver tras el velo de las cosas, y eso despierta envidias y recelos entre sus compañeros... Además, tendrá que trabajar junto a Kaja Solness, una inteligente y bellísima policía con la que establecerá una peculiar relación... El leopardo , la octava entrega de la serie protagonizada por el atormentado detective Harry Hole, convirtió a Jo Nesbø en un megaseller internacional. Reconocidos autores opinan... «Alucinante. Jo Nesbø es mi escritor de thriller preferido y Harry Hole mi nuevo héroe.» Michael Connelly «Jo Nesbø me pisa los talones como un pitbull rabioso.» James Ellroy «Mi banda está leyendo a Nesbø, pero yo tengo demasiado miedo para abrir su siguiente novela...» Patti Smith Y la prensa ha dicho... «El héroe más atormentado e irresistible. No existe una armadura suficientemente fuerte para proteger a Harry de sus demonios, o a nosotros de Harry.» Booklist « El leopardo te premia con un final tan inesperado como sugerente.» San Francisco Chronicle «Podría decir que es una variación más compleja de los argumentos de Agatha Christie, pero la realidad es que no lo puedes dejar de leer, que te atrapa totalmente.» The Daily Telegraph «Si no conoces a Nesbø, ya es hora de que te pongas a ello.» USA Today",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788439729556"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8439729553"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.20.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o887BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o887BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=o887BAAAQBAJ&pg=PT331&dq=harry&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=o887BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o887BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=o887BAAAQBAJ&rdid=book-o887BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_leopardo_Harry_Hole_8-sample-epub.acsm?id=o887BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/El_leopardo_Harry_Hole_8-sample-pdf.acsm?id=o887BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o887BAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b>— . Pero los casos de violación siguen siendo negociado de Delitos Violentos . -¿Violación ? ¿ Es que todavía no estás sobrio , <b>Harry</b> ? -Bueno . -<b>Harry</b> sacó el tabaco del bolsillo del pantalón . Estoy más sobrio de lo que espero&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BLHzCAAAQBAJ",
+      "etag": "jtJqe4Bw7Mc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BLHzCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cucarachas (Harry Hole 2)",
+        "authors": [
+          "Jo Nesbo"
+        ],
+        "publisher": "RESERVOIR BOOKS",
+        "publishedDate": "2015-06-04",
+        "description": "«EL REY INDISCUTIDO DE LA NOVELA NEGRA» ( El Mundo), CON 50 MILLONES DE LECTORES EN 50 IDIOMAS, NOS PRESENTA AL DETECTIVE HARRY HOLE EN SU SEGUNDO CASO. El embajador noruego aparece asesinado en un burdel de Bangkok. El embajador mantenía relaciones muy cercanas con el primer ministro noruego. En Oslo, para evitar el escándalo, tratan de desviar la atención hacia el ministro de Asuntos Exteriores... Harry Hole, alcoholizado y adicto a la vitamina B12, llega a Bangkok con instrucciones claras: silenciar el caso. ¿Será necesario ocultar pruebas? Harry descubre que el caso esconde otras tramas siniestras: se trata de un asesinato mucho más complejo de lo que a priori parecía. Inmerso en el ruido y el tráfico de una ciudad multitudinaria, Harry recorre las calles de un Bangkok lleno de bares de alterne, templos, fumadores de opio, trampas para turistas... Harry trata de encontrar la clave del asesinato del embajador, aunque nadie se lo ha pedido. Y nadie le quiere cerca, ni siquiera él mismo... «La novela ambientada en Bangkok. Recuerdo que sudé y sudé durante las semanas que escribí y escribí. Volé a Vietnam, me instalé en un pequeño hotel donde los propietarios me pusieron un pequeño escritorio y me pres- taron la bici. Así que pedaleé y escribí. Conocí a personajes increíbles. Comí y cené en el único buen restaurante del pueblo. Sudé y escribí.» Jo Nesbø Las novelas de Jo Nesbø han sido traducidas a más de 40 lenguas y llevan vendidos más de 25 millones de ejemplares en todo el mundo. En palabras del autor... «La novela ambientada en Bangkok... Recuerdo que sudé y sudé durante las semanas que escribí y escribí. Volé a Vietnam, me instalé en un pequeño hotel donde los propietarios me pusieron un pequeño escritorio y me prestaron la bici. Así que pedaleé y escribí. Conocí a personajes increíbles. Comí y cené en el único buen restaurante del pueblo. Sudé y escribí.» Jo Nesbø Otros autores opinan... «Pura destreza narrativa.» Lorenzo Silva «Alucinante. Jo Nesbø es mi escritor de thrillers preferido y Harry Hole mi nuevo héroe.» Michael Connelly Y la prensa ha dicho... «Impresionante. Probablemente el mejor thriller del año.» BBC. Radio 4 «Adictivo y brillante.» El País «Adictivo y brutal.» El Periódico «El escritor escandinavo que más atrae a los lectores.» El diario.es",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788416195404"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8416195404"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 458,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.18.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BLHzCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BLHzCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=BLHzCAAAQBAJ&pg=PT156&dq=harry&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BLHzCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BLHzCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BLHzCAAAQBAJ&rdid=book-BLHzCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Cucarachas_Harry_Hole_2-sample-epub.acsm?id=BLHzCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Cucarachas_Harry_Hole_2-sample-pdf.acsm?id=BLHzCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BLHzCAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> la entreabrió . Era Sanphet . —Sanphet , estamos ... El chófer se llevó un dedo a los labios . –Lo sé —susurró , e hizo señas a <b>Harry</b> para que saliera de la habitación . <b>Harry</b> cerró la puerta tras de sí . -¿sí ? -Ustedes quieren&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wRqsEAAAQBAJ",
+      "etag": "ikdTN68C5Gc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wRqsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Eclipse (Harry Hole 13)",
+        "authors": [
+          "Jo Nesbo"
+        ],
+        "publisher": "RESERVOIR BOOKS",
+        "publishedDate": "2023-03-23",
+        "description": "Tras cuatro años de abstinencia, Jo Nesbø vuelve a la serie que lo ha coronado como «el rey del thriller» ( Financial Times) «La espera ha merecido la pena. [...] Es el mejor de los nórdicos con mucha diferencia: engánchense a Harry. Es de los antihéroes que crean adicción». Juan Carlos Galindo, El País Harry Hole se ha mudado a Los Ángeles, ya nada le retiene en Noruega después de perder todo lo que daba sentido a su vida. Allí lo rescata de su deriva alcohólica Lucille, una veterana actriz de cine que, a cambio de su protección, le ofrece un techo, un traje a medida y unos zapatos de lujo. Mientras, en Oslo, ha aparecido muerta una chica a la que buscaban hacíadías, después de acudir a una fiesta organizada por Markus Røed, un magnate inmobiliario que era su sugar daddy. Otra joven relacionada con él sigue en paradero desconocido, por lo que la policía estrecha el cerco sobre el millonario. También les inquieta un detalle inusual en la cabeza de la primera víctima: parece la firma de alguien que desea volver a matar. Dispuesto a limpiar su nombre, Røed envía a un emisario para contratar a Hole como investigador privado. Es tan suculenta la recompensa que con ella Harry podrá ayudar a Lucille a librarse de una peligrosa banda mexicana. Sin embargo, solo tendrá diez días para volver a su país y resolver el caso. El reloj avanza y algo ominoso, infeccioso como un parásito, flota en el ambiente: se acerca un eclipse de luna que pronto bañará de rojo la ciudad de Oslo. «Una veraniega lectura ideal para amantes del nordic noir». Álvaro de Luna, Esquire «Un cóctel de violencia, intriga afilada y criminales especialmente inquietantes». David Morán, ABC «Uno de los grandes reyes del nordic noir ha vuelto: trepidante, llena de suspensey de giros de guion marca de la casa. [...] Otra entrega exitosa de este rey del thriller escandinavo». Adrià Puértolas, El Nacional «En las novelas de Nesbø hay mucho más que violencia. Sus tramas se mueven también por los personajes, la intriga y la originalidad de losplanteamientos. [...] Que no sufran los fans, porque habrá al menos una nueva entrega». Leonor Mayor Ortega, La Vanguardia «Bienvenido de nuevo. ¿Se puede ser exquisito con el gore y la sangre? Rotundamente, sí, y este es el ejemplo. Si ya conocen la novela negra escandinava y al autor sólo puedo decir: lo ha vuelto a hacer. Ha sacado oro de Harry Hole cuando creíamos que lo habíamos perdido». Raquel Espejo, La Opinión de Málaga «Imprescindible de nuevo. Porque Harry Hole nunca defrauda. [...] Así que larga vida, y más larga para su creador». Mariola Díaz-Cano Arévalo, Actualidad Literatura «Nunca hepracticado la idolatría literaria, pero en el caso de Nesbø es inevitable quitarse el sombrero». Bel Carrasco, Zenda «Nesbø lo ha vuelto a hacer. El decimotercer Harry Hole es más Harry Hole que nunca... aunque jamás fue tan descarnado. Una obra maestra». Nettavisen (Noruega) «Harry Hole es un personaje grandioso: comprar un libro suyo significa leerlo entero esa misma noche». Lee Child «Una de las mejores novelas de la saga». Verdens Gang (Noruega) «Es difícil reinventar la novela negra, pero es que esta... ¡viene muy bien cargada! Harry Hole vuelve y no hay un solo segundo de tregua cuando el misterio tiene que resolverse a una velocidad de récord». Romsdals Budstikke (Noruega) «El maestro Nesbø lo ha vuelto a hacer». Kapprakt (Suecia)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418897948"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8418897945"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wRqsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wRqsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=wRqsEAAAQBAJ&pg=PT97&dq=harry&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wRqsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wRqsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wRqsEAAAQBAJ&rdid=book-wRqsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Eclipse_Harry_Hole_13-sample-epub.acsm?id=wRqsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Eclipse_Harry_Hole_13-sample-pdf.acsm?id=wRqsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wRqsEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> . -¡Hola ! -dijo <b>Harry</b> , y se llevó la mano al bolsillo de la chaqueta . Sacó un osito— . Esto es para ti . Se lo tendió , pero el chico no se fijó en el osito , se limitó a mirar a <b>Harry</b> con los ojos muy abiertos . —¿Eles Papá Noel ?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u_6rDwAAQBAJ",
+      "etag": "c94HdNEDLOA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u_6rDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cuchillo (Harry Hole 12)",
+        "authors": [
+          "Jo Nesbo"
+        ],
+        "publisher": "RESERVOIR BOOKS",
+        "publishedDate": "2019-10-17",
+        "description": "«EL REY INDISCUTIDO DE LA NOVELA NEGRA» ( El Mundo ), CON 50 MILLONES DE LECTORES EN 50 IDIOMAS, NOS PRESENTA AL DETECTIVE HARRY HOLE EN SU DUODÉCIMO CASO. La única mujer a la que Harry Hole ha logrado amar, Rakel, lo ha echado de su vida. Ha sido readmitido en la policía de Oslo, sí, pero en un departamento infecto, lejos de los casos que sí quiere investigar: por ejemplo, devolver a la cárcel a Svein Finne, el sanguinario violador múltiple al que atrapó hace un puñado de años y que acaba de cumplir condena. Cuando todo va mal, aún puede ir a peor. Porque Harry ha vuelto a beber. Despierta una mañana sin recordar nada de lo sucedido la noche anterior y con las manos manchadas de sangre. Le tocará entrar de bruces en una pesadilla interminable en la que todas las salidas conducen a la muerte. La caza final ha empezado, aunque no está claro quién es la presa. Cuchillo es la novela más salvaje protagonizada por Harry Hole: ha tomado un camino para el que no hay ya vuelta atrás. Cuchillo es la duodécima entrega de la serie Harry Hole; en ella, el detective llega al límite de sus fuerzas y nadie sabe cuánto falta hasta que llegue su última hora. La crítica ha dicho... «La mejor entrega de la serie.» Wall Street Journal (Estados Unidos) «Nesbø depura aquí su maestría como nunca.» Dagbladet (Noruega) «Después de Cuchillo, parece imposible que Nesbø se pueda superar.» The Times (Reino Unido) «La novela más ambiciosa de la serie Harry Hole. Y quizá la mejor.» Jyllands-Posten (Dinamarca) «Imbatible. Jo Nesbø ha vuelto a demostrar por qué es el rey del crimen.» Dnes24 (Eslovaquia) «La novela más impredecible de nuestro querido e insumiso Harry Hole.» Forbes (Rusia) «No era necesario aportarla, pero Cuchillo es la prueba de cargo, laevidencia definitiva, de que Nesbø ocupa el lugar más alto en el panteón de la novela negra actual.» Ta Néa (Grecia) «La mejor trama de Nesbø. No solo es perfecta: es diabólica.» Booklist «Una novela más compleja y compacta que las anteriores. Raya el nivel de perfección de Petirrojo.» Los Angeles Times (Estados Unidos) «Harry Hole jamás cayó tan bajo como en Cuchillo... ni Jo Nesbø voló jamás tan alto.» Jyllands-Posten (Dinamarca) «El suspense que crea Nesbø corta más que un cuchillo. No hay otro maestro en la novela negra como él.» Verdens Gang (Noruega) «Nesbø en su máximo esplendor: su prosa está tan engrasada que parece volar sobre el filo de la navaja que amenaza a Harry, más suicida y determinado que nunca para encontrar la verdad.» Evening Standard (Reino Unido) «¿Sabe alguien crear villanos más perversos que los de Jo Nesbø? No, no creo que nadie provoque más escalofríos que él.» New York Times Book Review (Estados Unidos)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417910006"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "841791000X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u_6rDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u_6rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=u_6rDwAAQBAJ&pg=PT120&dq=harry&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u_6rDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u_6rDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u_6rDwAAQBAJ&rdid=book-u_6rDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Cuchillo_Harry_Hole_12-sample-epub.acsm?id=u_6rDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Cuchillo_Harry_Hole_12-sample-pdf.acsm?id=u_6rDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u_6rDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> . Con los ojos bañados en lágrimas le plantó las manos sobre los hombros a <b>Harry</b> y le echó el aliento del alcohol recién ingerido a la cara . Quizá no fuera solo por su aspecto por lo que <b>Harry</b> se acordaba de Øystein cuando la&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zTFCDwAAQBAJ",
+      "etag": "NltgTcjQ0oI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zTFCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter y la piedra filosofal de J. K. Rowling (Guía de lectura)",
+        "subtitle": "Resumen y análisis completo",
+        "authors": [
+          "ResumenExpress,"
+        ],
+        "publisher": "ResumenExpress.com",
+        "publishedDate": "2017-12-07",
+        "description": "ResumenExpress.com presenta y analiza en esta guía de lectura Harry Potter y la piedra filosofal, el primer tomo de una saga de siete volúmenes que escribe J. K. Rowling. Este éxito mundial narra la historia de Harry Potter, un chico que descubre el mundo de los magos y, junto a sus amigos, tendrá que resolver el misterio de la piedra filosofal y derrotar al malvado Voldemort, que parece aterrar a todo el mundo... ¡Ya no tienes que leer y resumir todo el libro, nosotros lo hemos hecho por ti! Esta guía incluye: • Un resumen completo del libro • Un estudio de los personajes • Las claves de lectura • Pistas para la reflexión ¿Por qué elegir ResumenExpress.com? Para aprender de forma rápida. Porque nuestras publicaciones están escritas con un estilo claro y conciso que te ayudará a ganar tiempo y a entender las obras sin esfuerzo. Disponibles en formato impreso y digital, te acompañarán en tu aventura literaria. Toma una dosis de literatura acelerada con ResumenExpress.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782806274199"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2806274192"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zTFCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zTFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=zTFCDwAAQBAJ&pg=PT7&dq=harry&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zTFCDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zTFCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.35,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 10.35,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zTFCDwAAQBAJ&rdid=book-zTFCDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10350000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 10350000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zTFCDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> demostrará mucha audacia durante sus aventuras. A continuación, <b>Harry</b> descubre a sus profesores. El profesor de pociones, Severus Snape, en seguida se muestra hostil hacia él, sin motivo aparente. Con el paso de los días, <b>Harry</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y6x_EAAAQBAJ",
+      "etag": "xBZVvWzKbi4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y6x_EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry. La biografía no oficial de Harry Styles",
+        "subtitle": "La biografía no autorizada",
+        "authors": [
+          "Danny White"
+        ],
+        "publisher": "ROCA EDITORIAL",
+        "publishedDate": "2022-11-10",
+        "description": "La biografía definitiva de Harry Styles, quien saltó a la fama como miembro de One Direction y desde entonces se ha convertido en uno de los cantantes solistas de más alto perfil en el planeta, además de actuar en películas de Hollywood y hacerse un nombre como icono de la moda. Esta biografía detallada narra la vida de Harry Styles hasta el momento. Desde su infancia y su salto a la fama en X-Factor hasta el lanzamiento de su música en solitario, convirtiéndose en la realeza de la moda. En este libro estamos más cerca de Harry que nunca. Una montaña rusa de emociones, en las que podemos ver el inicio de su carrera, la separación de One Direction y cómo Harry consiguió reinventarse a sí mismo, convirtiéndose en la estrella de rock que siempre había querido ser y conquistar Estados Unidos por sí mismo. No contento con ser una de las estrellas pop más grandes del mundo, Harry también ha cultivado unacarrera como estrella de cine y televisión, apareciendo en éxitos de taquilla como Dunkerque, así como presentando el show Saturday Night Live. También se ha hecho un nombre en el mundo de la moda, presentando la Met Gala con Serena Williams y Lady Gaga, y representa la icónica marca Gucci. Este es un libro que te llevará al corazón de una estrella pop muy moderna, una lectura para descubrir todos los secretos de Harry Styles . La crítica ha dicho... «Lleno de anécdotas, momentos relevantes en la vida del artista y extractos relevantes de otras fuentes que ayudan a hacerse una visión muy completa.» Las lecturas de Mel y Canelon «Me encantaron las fotos que venían y recordar esos momentos, ver donde empezó todo y como sigue.» Booklovermood",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788419283429"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8419283428"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y6x_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y6x_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=y6x_EAAAQBAJ&pg=PT100&dq=harry&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=y6x_EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y6x_EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=y6x_EAAAQBAJ&rdid=book-y6x_EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Harry_La_biograf%C3%ADa_no_oficial_de_Harry-sample-epub.acsm?id=y6x_EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Harry_La_biograf%C3%ADa_no_oficial_de_Harry-sample-pdf.acsm?id=y6x_EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y6x_EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> en 2012. De hecho, había sido admiradora de <b>Harry</b> desde su paso por The X Factor en 2010. Tuiteó: «¡¿Por qué <b>Harry</b> de One Direction TIENE que tener 16?! ¡Finjamos que por lo menos tiene 18! ¡Así la única dirección en la que iría&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uoxUloj09YEC",
+      "etag": "WAl7wHE3eMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uoxUloj09YEC",
+      "volumeInfo": {
+        "title": "La irresistible ascensión de Harry Potter",
+        "authors": [
+          "Andrew Blake"
+        ],
+        "publisher": "EDAF",
+        "publishedDate": "2005-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "844141629X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788441416291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uoxUloj09YEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uoxUloj09YEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=uoxUloj09YEC&pg=PA36&dq=harry&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=uoxUloj09YEC&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_irresistible_ascensi%C3%B3n_de_Harry_Pott.html?hl=&id=uoxUloj09YEC"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/La_irresistible_ascensi%C3%B3n_de_Harry_Pott-sample-pdf.acsm?id=uoxUloj09YEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uoxUloj09YEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> pero salió malherido cuando intentó hacer lo mismo con él . A pesar del mal que lo acecha , <b>Harry</b> se dirige hasta el lugar de trabajo de Hagrid , Hogwarts , una escuela de ma- gia que funciona del mismo modo que un internado pri&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DwACAAAAQAAJ",
+      "etag": "S6pKRogfObQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DwACAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Harry Blount",
+        "authors": [
+          "Philip Gilbert Hamerton"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:600065307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 572,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DwACAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DwACAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=DwACAAAAQAAJ&pg=PA76&dq=harry&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DwACAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DwACAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=DwACAAAAQAAJ&rdid=book-DwACAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Harry_Blount.epub?id=DwACAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/Harry_Blount.pdf?id=DwACAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0hy-aBBfpJ4AmAYnpxGirZ8ofiow&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DwACAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Philip Gilbert Hamerton. and offered it to <b>Harry</b> as an expression of his gratitude . <b>Harry</b> took the bunch , detached his own seal , and re- turned the rest . Then Wade pressed him to accept them , in a manner that was intended to be&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wkNGAAAAYAAJ",
+      "etag": "qWcDAnk+8Kw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wkNGAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Harry Delaware",
+        "subtitle": "Or, An American in Germany",
+        "authors": [
+          "Mathilde Estvan"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:CU58334700"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "American fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wkNGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wkNGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=wkNGAAAAYAAJ&pg=PA44&dq=harry&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wkNGAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wkNGAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wkNGAAAAYAAJ&rdid=book-wkNGAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Harry_Delaware.epub?id=wkNGAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/Harry_Delaware.pdf?id=wkNGAAAAYAAJ&hl=&output=pdf&sig=ACfU3U033tPMSlMwLYvKYSxYNH8IGOW1uQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wkNGAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> listened with an amused smile , to hear if he arrived there unseen and undetected . CHAPTER XIV . &quot; But , my dear friend , &quot; replied <b>Harry</b> , &quot; you will please give me an opportunity first to learn who and what they are before I&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0I4xAQAAMAAJ",
+      "etag": "9aPol7Wnncw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0I4xAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Life of Sir Harry Parkes: Consul in China. by S. Lane-Poole",
+        "authors": [
+          "Stanley Lane-Poole"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:31158004274410"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0I4xAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0I4xAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=0I4xAQAAMAAJ&pg=PA505&dq=harry&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0I4xAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0I4xAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0I4xAQAAMAAJ&rdid=book-0I4xAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Life_of_Sir_Harry_Parkes_Consul_in_C.epub?id=0I4xAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Life_of_Sir_Harry_Parkes_Consul_in_C.pdf?id=0I4xAQAAMAAJ&hl=&output=pdf&sig=ACfU3U1n5Qi7Ncp4bBs9P7i6BY6pBogPDw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0I4xAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> in his subsequent visit to the General . When they reached his headquarters they found he had moved on some dozen miles , upon which , after merely inquiring whether the ponies could do the distance , Sir <b>Harry</b> pushed on in&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jLnv0AEACAAJ",
+      "etag": "xF1rauPHO+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jLnv0AEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter Y El Prisionero de Azkaban / Harry Potter and the Prisoner of Azkab an",
+        "authors": [
+          "J K Rowling"
+        ],
+        "publisher": "Salamandra Infantil Y Juvenil",
+        "publishedDate": "2025-03-18",
+        "description": "Harry Potter y el prisionero de Azkaban es la tercera novela de la ya clásica serie fantástica de la autora británica J.K. Rowling. «Bienvenido al autobús noctámbulo, transporte de emergencia para el brujo abandonado a su suerte. Levante la varita, suba a bordo y lo llevaremos a donde quiera.» Cuando el autobús noctámbulo irrumpe en una calle oscura y frena con fuertes chirridos delante de Harry, comienza para él un nuevo curso en Hogwarts, lleno de acontecimientos extraordinarios. Sirius Black, asesino y seguidor de lord Voldemort, se ha fugado, y dicen que va en busca de Harry. En su primera clase de Adivinación, la profesora Trelawney ve un augurio de muerte en las hojas de té de la taza de Harry... Pero quizá lo más aterrador sean los dementores que patrullan por los jardines del colegio, capaces de sorberte el alma con su beso... ENGLISH DESCRIPTION Harry Potter and the Prisoner of Azkaban is the third novel in the now-classic fantasy series by British author J.K. Rowling. For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort. Now he has escaped, leaving only two clues as to where he might be headed: Harry Potter's defeat of You-Know-Who was Black's downfall as well. And the Azkaban guards heard Black muttering in his sleep, \"He's at Hogwarts... he's at Hogwarts.\" Harry Potter isn't safe, not even within the walls of his magical school, surrounded by his friends. Because on top of it all, there may be a traitor in their midst.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798890983336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jLnv0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jLnv0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=jLnv0AEACAAJ&dq=harry&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=jLnv0AEACAAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_Y_El_Prisionero_de_Azkaban.html?hl=&id=jLnv0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jLnv0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION Harry Potter and the Prisoner of Azkaban is the third novel in the now-classic fantasy series by British author J.K. Rowling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dv5oDwAAQBAJ",
+      "etag": "KJPNXqvXEJI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dv5oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry S. Truman and the United Nations Conference of 1945",
+        "authors": [
+          "Joe Majerus"
+        ],
+        "publisher": "GRIN Verlag",
+        "publishedDate": "2018-08-15",
+        "description": "Essay from the year 2016 in the subject History - America, grade: 1,7, , language: English, abstract: While the Second World War was slowly drawing to a close both in Europe and in Asia, the United States government was already in the midst of making comprehensive plans for a more stable and peaceful international order in the years to come. In that regard, senior executives attached particular importance to the budding United Nations organization, a transnational institution which notably President Truman viewed as one of the seminal centrepieces of world peace and security. Two vital speeches delivered by Truman in the spring and early summer of 1945 amply reflected this sentiment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783668773905"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3668773904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dv5oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dv5oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=Dv5oDwAAQBAJ&pg=PA1&dq=harry&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=Dv5oDwAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_S_Truman_and_the_United_Nations_Co.html?hl=&id=Dv5oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.ar/books/download/Harry_S_Truman_and_the_United_Nations_Co-sample-pdf.acsm?id=Dv5oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dv5oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> S. Truman, Memoirs. Year of Decision, Volume I (New York: Signet Books, 1955), p. 19. 2 <b>Harry</b> S. Truman: &quot;Address to the United Nations Conference in San Francisco,&quot; April 25, 1945. Online by Woolley, The American Presidency&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-o0DQAAQBAJ",
+      "etag": "zbRqOornrjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-o0DQAAQBAJ",
+      "volumeInfo": {
+        "title": "La magia desde dentro: así se hizo animales fantásticos y dónde encontrarlos",
+        "authors": [
+          "Ian Nathan"
+        ],
+        "publisher": "Harlequin, una división de HarperCollins Ibérica",
+        "publishedDate": "2016-11-25",
+        "description": "REGRESO AL MUNDO DE LA MAGIA Descubre cómo el director David Yates, el productor David Heyman y un talentoso equipo de nomajs trasladaron a la pantalla Animales fantásticos y dónde encontrarlos, de J. K. Rowling. Conoce a Newt Scamander, magizoólogo, y explora maravillas como el MACUSA, homólogo estadounidense del Ministerio de la Magia, el bar clandestino The Blind Pig, guarida del inframundo mágico, los secretos mágicos de la maleta de Newt y los animales fantásticos. Permite que La magia desde dentro: así se hizo Animales fantásticos y dónde encontrarlos te lleve de viaje cinematográfico hasta el Nueva York de los años 20. Descubre cosas sobre los trajes, las varitas, los efectos especiales, averigua a quién pertenece cada varita, qué famoso mago es amigo de Newt, quién es un legilimante, ¡y qué animales acaban en el zoo! Lleno de fotos emocionantes y secretos detrás de las cámaras, revelados por J. K. Rowling, David Yates, el diseñador de producción Stuart Craig, Eddie Redmayne y el r esto de estrellas, este libro es el complemento definitivo a la película, la introducción perfecta a Animales fantásticos y dónde encontrarlos. “Me pareció divertido. Emocionante. Y conmovedor. Trasladaba toda la fantasía y la imaginación de Harry Potter al Nueva York del charlestón y la ley seca. Un escenario muy emocionante por el que moverse” Eddie Redmayne",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788491390886"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "849139088X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-o0DQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-o0DQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=s-o0DQAAQBAJ&dq=harry&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=s-o0DQAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_magia_desde_dentro_as%C3%AD_se_hizo_anima.html?hl=&id=s-o0DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-o0DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Permite que La magia desde dentro: así se hizo Animales fantásticos y dónde encontrarlos te lleve de viaje cinematográfico hasta el Nueva York de los años 20."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A4AunwEACAAJ",
+      "etag": "VL8N1Ji9fP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A4AunwEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter y el misterio del príncipe",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore",
+        "publishedDate": "2012-04-24",
+        "description": "Con dieciséis años cumplidos, Harry inicia el sexto curso en Hogwarts en medio de terribles acontecimientos que asolan Inglaterra. Elegido capitán del equipo de Quidditch, los entrenamientos, los exámenes y las chicas ocupan todo su tiempo, pero la tranquilidad dura poco. A pesar de los férreos controles de seguridad que protegen la escuela, dos alumnos son brutalmente atacados. Dumbledore sabe que se acerca el momento, anunciado por la Profecía, en que Harry y Voldemort se enfrentarán a muerte: «El único con poder para vencer al Señor Tenebroso se acerca... Uno de los dos debe morir a manos del otro, pues ninguno de los dos podrá vivir mientras siga el otro con vida.». El anciano director solicitará la ayuda de Harry y juntos emprenderán peligrosos viajes para intentar debilitar al enemigo, para lo cual el joven mago contará con la ayuda de un viejo libro de pociones perteneciente a un misterioso príncipe, alguien que se hace llamar Príncipe Mestizo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1781101159"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781101155"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A4AunwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A4AunwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=A4AunwEACAAJ&dq=harry&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=A4AunwEACAAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_y_el_misterio_del_pr%C3%ADncipe.html?hl=&id=A4AunwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A4AunwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con dieciséis años cumplidos, Harry inicia el sexto curso en Hogwarts en medio de terribles acontecimientos que asolan Inglaterra."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SGSREAAAQBAJ",
+      "etag": "TBI23SZCPcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SGSREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter y las reliquias de la muerte (20 Aniv. Gryffindor) / Harry Potter a nd the Deathly Hallows (Gryffindor)",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2023-03-21",
+        "description": "Siempre tendrás una casa en Hogwarts. Edición del vigésimo aniversario de Harry Potter y las reliquias de la muerte. «La clásica saga de J. K. Rowling te llevará de vuelta al Colegio Hogwarts de Magia y Hechicería.» Con motivo de la celebración del veinte aniversario de la primera publicación de Harry Potter, se publican estas preciosas ediciones que rinden homenaje al carácter noble de las cuatro casas de Hogwarts. Con ilustraciones nuevas en el interior y un diseño único en las cubiertas, obra de Levi Pinfold, ganador de la Medalla Kate Greenaway, cada uno de los libros contiene material adicional exclusivo sobre cada casa. Una edición única que no puedes perderte si alguna vez te has imaginado sentado bajo el Sombrero Seleccionador en el Gran Comedor de Hogwarts. ENGLISH DESCRIPTION Celebrate Harry Potter’s 20th anniversary with this special edition of Harry Potter and the Deathly Hallows. WEAR YOUR HOGWARTS HOUSE COLORS WITH PRIDE! It all comes down to this – a final faceoff between good and evil. You plan to pull out all the stops, but every time you solve one mystery, three more evolve. Do you stay the course you started, despite your lack of progress? Do you detour and follow a new lead that may not help? Do you listen to your instincts, or your friends? Lord Voldemort is preparing for battle and so must Harry. With Ron and Hermione at his side, he’s trying to hunt down Voldemort’s Horcruxes, escape danger at every turn, and find a way to defeat evil once and for all. How does it all end? Find out in Harry Potter and the Deathly Hallows.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418797057"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8418797053"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SGSREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SGSREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=SGSREAAAQBAJ&dq=harry&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=SGSREAAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_y_las_reliquias_de_la_muert.html?hl=&id=SGSREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SGSREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION Celebrate Harry Potter’s 20th anniversary with this special edition of Harry Potter and the Deathly Hallows. WEAR YOUR HOGWARTS HOUSE COLORS WITH PRIDE!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bftNDwAAQBAJ",
+      "etag": "dN0ppSoYa/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bftNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter y el legado maldito",
+        "subtitle": "El guión oficial de la producción original del West End",
+        "authors": [
+          "J.K. Rowling",
+          "Jack Thorne",
+          "John Tiffany"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2018-03-01",
+        "description": "Han pasado diecinueve años desde que Harry Potter, Ron Weasley y Hermione Granger salvaron el mundo mágico. Ahora vuelven con una aventura extraordinaria, acompañados por una nueva generación de valientes estudiantes recién llegados al Colegio Hogwarts de Magia y Hechicería. Mientras Harry lucha contra un pasado que se resiste a quedar atrás, su hijo menor, Albus, siente sobre sí el peso de un legado familiar que nunca quiso llevar. En medio de un conflicto entre el pasado y el presente, padre e hijo se ven envueltos en una carrera por el tiempo. Mientras se enfrentan a unas fuerzas misteriosas, el futuro pende de un hilo. Basado en una historia original de J.K. Rowling, John Tiffany y Jack Thorne, Harry Potter y el legado maldito es el guion de la premiada producción del West End, presentado en su versión íntegra. Esta edición incluye los diálogos y las acotaciones definitivos de esta obra original de dos partes, así como una conversación entre el director John Tiffany y el dramaturgo Jack Thorne, el árbol genealógico de la familia Potter y una línea temporal con los eventos clave del mundo mágico hasta Harry Potter y el legado maldito.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781105290"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781105294"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bftNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bftNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=bftNDwAAQBAJ&dq=harry&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=bftNDwAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_y_el_legado_maldito.html?hl=&id=bftNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bftNDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta edición incluye los diálogos y las acotaciones definitivos de esta obra original de dos partes, así como una conversación entre el director John Tiffany y el dramaturgo Jack Thorne, el árbol genealógico de la familia Potter y una ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vPVAAQAAMAAJ",
+      "etag": "+ZXjkB7bmVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vPVAAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Cosmopolitan",
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MSU:31293104820141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 784,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vPVAAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vPVAAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=vPVAAQAAMAAJ&pg=PA91&dq=harry&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vPVAAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vPVAAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=vPVAAQAAMAAJ&rdid=book-vPVAAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Cosmopolitan.epub?id=vPVAAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vPVAAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Harry</b> , after remaining a few moments in a big arm - chair , reflecting , rises slowly and leans against the mantel : &quot; Well , after all , it concerns no one but myself , and I am my own master . I can do as I please . The only trouble&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E4WHAAAAMAAJ",
+      "etag": "XfU9tMiHEFQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E4WHAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Harry Agganis, the Golden Greek",
+        "subtitle": "An All-American Story",
+        "authors": [
+          "Nick Tsiotos",
+          "Andy Dabilis"
+        ],
+        "publishedDate": "1995",
+        "description": "For a glorious decade, from 1945-55, Harry Agganis ruled sports headlines across New England, and the United States. He was the most celebrated schoolboy athlete in the country, a three sport high school star who turned down offers from more than seventy-five colleges to attend Boston University - so he could be near his widowed mother. He was a quadruple threat All-America football star and one of the most sought-after baseball players in America. He was the first draft choice of the World Champion Cleveland Browns, chosen to succeed legendary quarterback Otto Graham. But the story of Harry Agganis is his clean-cut life and love for family, friends and church, and dedication to his hometown of Lynn, Massachusetts, where he went from the sandlots to college to the Marines to the Boston Red Sox, where starring as a slugging left-hander at first base, he was paired with Ted Williams - until tragedy struck suddenly. This, for the first time, is the story of the man they called \"The Golden Greek\".",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015064708137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E4WHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E4WHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=E4WHAAAAMAAJ&q=harry&dq=harry&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=E4WHAAAAMAAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Agganis_the_Golden_Greek.html?hl=&id=E4WHAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E4WHAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> suffered the fate of all epic heroes There will be some who ask , &#39; Can it be . Was he really that good ? &#39; They never saw <b>Harry</b> Agganis play . &quot; ... Austen Lake of the Evening America , who had been so critical after <b>Harry</b> was&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_cEiAAAAMAAJ",
+      "etag": "9GhKAjmgiE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_cEiAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Harry Belten and the Mendelssohn Violin Concerto",
+        "authors": [
+          "Barry Targan"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019753964"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_cEiAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_cEiAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=_cEiAAAAMAAJ&q=harry&dq=harry&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=_cEiAAAAMAAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Belten_and_the_Mendelssohn_Violin.html?hl=&id=_cEiAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_cEiAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> asked . &quot; What ? &quot; Karnovsky came back to the room slowly . &quot; They laughed at you . They&#39;ll laugh at me . What&#39;s the dif- ference ? &quot; Repentantly softened , Karnovsky ... <b>Harry</b> 15 <b>Harry</b> Belten and The Mendelssohn Violin Concerto."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lftHAQAAMAAJ",
+      "etag": "RW7Rz9F7Cjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lftHAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Reports of Cases Determined in the Supreme Court of Judicature of the State of New Jersey",
+        "authors": [
+          "New Jersey. Supreme Court",
+          "Richard Smith Coxe",
+          "William Sandford Pennington",
+          "Samuel Lewis Southard",
+          "William Halsted (jr., reporter.)",
+          "James S. Green",
+          "Josiah Harrison",
+          "Robert Dayton Spencer"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437011913163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Law reports, digests, etc"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lftHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lftHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=lftHAQAAMAAJ&pg=PA256&dq=harry&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lftHAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lftHAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lftHAQAAMAAJ&rdid=book-lftHAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Reports_of_Cases_Determined_in_the_Supre.epub?id=lftHAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lftHAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> went away , and could not have then known that he was on board ; that the boat left the wharf about eleven o&#39;clock in the morning ; that when <b>Harry</b> came to the boat he had a bundle in his hand , which he asked witness to take&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RqkCAAAAYAAJ",
+      "etag": "8VlH3rzmxsY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RqkCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The American Stud Book",
+        "publishedDate": "1898",
+        "description": "Containing full pedigree of all the imported thorough-bred stallions and mares, with their produce.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433082509187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1364,
+        "printType": "BOOK",
+        "categories": [
+          "Horses"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RqkCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RqkCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=RqkCAAAAYAAJ&pg=PR48&dq=harry&hl=&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RqkCAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RqkCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=RqkCAAAAYAAJ&rdid=book-RqkCAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/The_American_Stud_Book.epub?id=RqkCAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/The_American_Stud_Book.pdf?id=RqkCAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0cozmNS8GLFD1CnMJQI6c12-f7dw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RqkCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> Whiteside Happy Knack . 504 ( px . ) .. 1228 Hay D .. Happy Maiden 324 Hartenagle . 939 Hayda Bradford . Happy ... <b>Harry</b> C .. 844 <b>Harry</b> Corby .. 1045 Hattie V. ( Apx ... ) ... ..1207 Heart&#39;s Ease , by Ten <b>Harry</b> Crawford . 754&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R3I-AQAAMAAJ",
+      "etag": "nWbsUE+Bxhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R3I-AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Lloyd's Register of British and Foreign Shipping",
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:105233332"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Shipping"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R3I-AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R3I-AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=R3I-AQAAMAAJ&pg=RA7-PA35&dq=harry&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R3I-AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R3I-AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=R3I-AQAAMAAJ&rdid=book-R3I-AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Lloyd_s_Register_of_British_and_Foreign.epub?id=R3I-AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R3I-AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> A. Berwind Wood4MstSr 996 1.F.Howitt -95 <b>Harry</b> B. Diverty W. Taylor -87 <b>Harry</b> C. Shepherd C. W. Booge <b>Harry</b> Herbert D.J.Murray -92 <b>Harry</b> Knowlton KHQG Zelu -90 156 96021 KGPL 15795188 JLVQ 158 11311 159 HJTP 160 95614 JTWP 161&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3mECAAAAYAAJ",
+      "etag": "ZlErH2ivztc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3mECAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Graham's School Dialogues for Young People",
+        "subtitle": "Containig New and Original Dramatic Dialogues Intended for Anniversaries and Exhibitions",
+        "authors": [
+          "George C. Graham"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433082497227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Dialogues"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3mECAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3mECAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=3mECAAAAYAAJ&pg=PA171&dq=harry&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3mECAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3mECAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3mECAAAAYAAJ&rdid=book-3mECAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Graham_s_School_Dialogues_for_Young_Peop.epub?id=3mECAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/Graham_s_School_Dialogues_for_Young_Peop.pdf?id=3mECAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3nH6r_gBe4zNR8i02Ri5M9Z1AwHg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3mECAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>HARRY</b> . ( Tearing off disguise , and getting water . ) Here ! KATE . Roll up the chair ! ( Places FLORENCE in chair . ) Now bathe her face ; she must not see me . ( Bundles up <b>HARRY&#39;s</b> dis- guise and exit . ) <b>HARRY</b> . Ob , if we have&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a6JHAAAAYAAJ",
+      "etag": "srrn3OOa9e4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a6JHAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Sunday at Home",
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101076871563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 868,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a6JHAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a6JHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=a6JHAAAAYAAJ&pg=PA262&dq=harry&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=a6JHAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=a6JHAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=a6JHAAAAYAAJ&rdid=book-a6JHAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Sunday_at_Home.epub?id=a6JHAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Sunday_at_Home.pdf?id=a6JHAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3ThMe-PhDOHYaSbZXwwsch_nbenQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a6JHAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry&#39;s</b> mother had forgotten everything , except her wonder how the new dresses which she had got at Aix could be disposed of in her trunks . &quot; But , oh , mother , &quot; burst out poor <b>Harry</b> , with a face redder than ever and all puckered&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U5VxhXzOdq8C",
+      "etag": "ahi387mzxK0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U5VxhXzOdq8C",
+      "volumeInfo": {
+        "title": "On the Tour with Harry Sprague",
+        "authors": [
+          "Herbert Warren Wind"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112000794542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Golf"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U5VxhXzOdq8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U5VxhXzOdq8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=U5VxhXzOdq8C&q=harry&dq=harry&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=U5VxhXzOdq8C&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_the_Tour_with_Harry_Sprague.html?hl=&id=U5VxhXzOdq8C"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U5VxhXzOdq8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> , ” Bob says , &quot; who is making your equipment ? Some company at Cape Canaveral ? &quot; We both had a good laugh about that one . I was plan- ning to tell Bob how he can also fix up the tenth hole into a real good 4 , but I will save&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u3dPAQAAMAAJ",
+      "etag": "RO4z7KPfzaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u3dPAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Godey's Lady's Book and Ladies American Magazine",
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:48317957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u3dPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u3dPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=u3dPAQAAMAAJ&pg=PA350&dq=harry&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u3dPAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u3dPAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=u3dPAQAAMAAJ&rdid=book-u3dPAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Godey_s_Lady_s_Book_and_Ladies_American.epub?id=u3dPAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u3dPAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>HARRY</b> and FANNY . Marion . Oh , there you are ! Now listen to me , you miserable little beggars ! <b>Harry</b> . ( Proudly . ) We are not beggars . We work for our living . Septimus . ( Sharply . ) Hold your tongue ! Marion . You two walk down&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M5lEAQAAMAAJ",
+      "etag": "K9hisAXiqXU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M5lEAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Godey's Lady's Book",
+        "publishedDate": "1882",
+        "description": "Includes music.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433104870054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Costume"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M5lEAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M5lEAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=M5lEAQAAMAAJ&pg=PA77&dq=harry&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=M5lEAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=M5lEAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=M5lEAQAAMAAJ&rdid=book-M5lEAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Godey_s_Lady_s_Book.epub?id=M5lEAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M5lEAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> , don&#39;t dream of such a thing ! <b>Harry</b> . But , my dear girl , think a moment . Though everything is so smiling now , it cannot long continue . Your brother will either write or be written to , or , perhaps , come on ; at any rate&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OWGH-FVGafEC",
+      "etag": "bVnEDJotmlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OWGH-FVGafEC",
+      "volumeInfo": {
+        "title": "IN RE ANNA R. CALHOUN ESTATE; FRANK ROWE, JR. V HARRY BURRELL, 346 MICH 227 (1956)",
+        "subtitle": "Appellants' Brief",
+        "publishedDate": "1956",
+        "description": "24",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WSULL:WSU7ECR3QK0L"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OWGH-FVGafEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OWGH-FVGafEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=OWGH-FVGafEC&q=harry&dq=harry&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=OWGH-FVGafEC&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/IN_RE_ANNA_R_CALHOUN_ESTATE_FRANK_ROWE_J.html?hl=&id=OWGH-FVGafEC"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OWGH-FVGafEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>HARRY</b> BURRELL , ROY BURRELL , DOR- OTHY KERBER , EDNA KING , EVA O&#39;SULLIVAN , EDWARD ROWE , FRED- ERICK C. ROWE , ORAMEL L. ROWE , RALPH ROWE , and FLORENCE SIMMS , Contestants and Appellees . No. 46,663 . APPELLANTS &#39; BRIEF STATEMENT&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BHaREAAAQBAJ",
+      "etag": "3YwfQ7nigLk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BHaREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Vivir bien la vida: Los beneficios inesperados del francaso y la imaginación / Very Good Lives",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2018-04-30",
+        "description": "«No necesitamos magia para transformar nuestro mundo, ya tenemos, en nuestro interior, todo el poder que necesitamos.» -J.K. Rowling Cuando J. K. Rowling fue invitada a pronunciar el discurso de la ceremonia de graduación de los alumnos de la Universidad de Harvard, decidió hablar sobre dos temas que le interesan especialmente: los beneficios del fracaso y la importancia de la imaginación. Para la autora, la valentía a la hora de afrontar el fracaso es tan esencial para vivir bien la vida como cualquier parámetro tradicional con que se mide el éxito; y nuestra capacidad de empatía, de ponernos en la situación de los demás -sobre todo si éstos son menos afortunados que nosotros-, es una cualidad que sólo poseemos los seres humanos y que debemos cuidar, cueste lo que cueste. Las anécdotas que J. K. Rowling compartió con los estudiantes y las preguntas incisivas que les formuló han sido una fuente de inspiración inagotable para todos aquellos que se han parado a pensar qué significa vivir bien la vida. Sus palabras invitan a actuar a todas las personas, con independencia de su edad y condición, que se encuentran en un momento decisivo de su vida. Si tenemos el valor de arriesgarnos -aunque esto pueda llevarnos al fracaso- y si sabemos aprovechar el poder de la imaginación, podremos empezar a perder el miedo y explorar las infinitas posibilidades que nos ofrece la vida. «Con la vida ocurre como en el teatro: lo importante no es que la obra sea larga, sino que sea buena.» Séneca DESCRIPTION IN ENGLISH J.K. Rowling, one of the world's most inspiring writers, shares her wisdom and advice. In 2008, J.K. Rowling delivered a deeply affecting commencement speech at Harvard University. Now published for the first time in book form, VERY GOOD LIVES presents J.K. Rowling's words of wisdom for anyone at a turning point in life. How can we embrace failure? And how can we use our imagination to better both ourselves and others? Drawing from stories of her own post-graduate years, the world famous author addresses some of life's most important questions with acuity and emotional force.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788498388435"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8498388430"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Self-Help"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BHaREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BHaREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=BHaREAAAQBAJ&dq=harry&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=BHaREAAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vivir_bien_la_vida_Los_beneficios_inespe.html?hl=&id=BHaREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BHaREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In 2008, J.K. Rowling delivered a deeply affecting commencement speech at Harvard University. Now published for the first time in book form, VERY GOOD LIVES presents J.K. Rowling&#39;s words of wisdom for anyone at a turning point in life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "60iQlw06oE0C",
+      "etag": "W87yH0IjP2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/60iQlw06oE0C",
+      "volumeInfo": {
+        "title": "Senate documents",
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB11361763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1072,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=60iQlw06oE0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=60iQlw06oE0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=60iQlw06oE0C&pg=RA2-PA170&dq=harry&hl=&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=60iQlw06oE0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=60iQlw06oE0C"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=60iQlw06oE0C&rdid=book-60iQlw06oE0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Senate_documents.epub?id=60iQlw06oE0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=60iQlw06oE0C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> simply , or did you tell them Henry Neal ? - A. I said <b>Harry</b> D. Neil . Q. Your name is <b>Harry</b> ? -A . Some folks say <b>Harry</b> or Henry . Q. Which do you say ? -A . They call me <b>Harry</b> in the corn - field ; that is the way ; but Henry is&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L3HUAAAAMAAJ",
+      "etag": "O4t/mhp3AsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L3HUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Recitations for the Primary Associations in Poetry, Dialogues and Prose",
+        "authors": [
+          "Eliza Roxey Snow"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89077009371"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Mormon Church"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L3HUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L3HUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=L3HUAAAAMAAJ&pg=PA117&dq=harry&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=L3HUAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L3HUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=L3HUAAAAMAAJ&rdid=book-L3HUAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Recitations_for_the_Primary_Associations.epub?id=L3HUAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/Recitations_for_the_Primary_Associations.pdf?id=L3HUAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0W_NgoRek-JJrJ5Uh5vbXFLNFMGw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L3HUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> . What is that , pa ? Mr. C. Have true courage , my boy , and don&#39;t no- tice their laughter . • <b>Harry</b> . I have tried . I cannot bear it , pa . Mr. C. What kind of a boy is Robert ? Hrrry . He is a new scholar ; his father is rich&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v3P6Bz9WSs0C",
+      "etag": "UfW9/k9HDXc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v3P6Bz9WSs0C",
+      "volumeInfo": {
+        "title": "Public Papers of the Presidents of the United States, Harry S. Truman: 1950",
+        "authors": [
+          "United States. President (1945-1953 : Truman)"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858009816186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 918,
+        "printType": "BOOK",
+        "categories": [
+          "Presidents"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v3P6Bz9WSs0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v3P6Bz9WSs0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=v3P6Bz9WSs0C&pg=PA209&dq=harry&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=v3P6Bz9WSs0C&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Public_Papers_of_the_Presidents_of_the_U.html?hl=&id=v3P6Bz9WSs0C"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v3P6Bz9WSs0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_mKREAAAQBAJ",
+      "etag": "86lKTWZLuDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_mKREAAAQBAJ",
+      "volumeInfo": {
+        "title": "La cocina de Hogwarts / The Official Harry Potter Baking Book",
+        "authors": [
+          "Joanna Farrow"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2022-05-24",
+        "description": "¡Adéntrate en el Colegio Hogwarts de Magia y Hechicería a través de sus cocinas! Inspirado en las películas de Harry Potter, este libro contiene 45 recetas acompañadas de magníficas fotografías, y es una obra que todos los seguidores de la saga querrán tener. Sus deliciosas recetas, desde los pasteles de calabaza hasta los muffins de búhos salados , pasando por las espectrogafas de Luna o el castillo de Hogwarts de pan de jengibre , cautivarán tus sentidos. Invita a tus amigos a un banquete como los del Gran Comedor de Hogwarts ¡o disfruta de un pastel individual! La cocina de Hogwarts incluye numerosas recetas vegetarianas, veganas y sin gluten. ¡Es ideal para todos! ENGLISH DESCRIPTION #1 NEW YORK TIMES BESTSELLER! Bake your way through Hogwarts School of Witchcraft and Wizardry! Inspired by the films, this is the ONE and ONLY official Harry Potter cookbook! Packed with over 40 recipes and gorgeous, eye-catching photography, this baking cookbook is a must-have for every Harry Potter fan. Delight in 43 tasty recipes inspired by the Harry Potter films! From Pumpkin Patch Pies to Owl Muffins, Luna's Spectrespecs Cookies to Hogwarts Gingerbread, The Official Harry Potter Baking Cookbook is packed with mouthwatering recipes that will, dare we say, ... ensnare the senses. Host a Great Hall-inspired feast for your friends or delight in a portion for one. Includes recipes for all kinds of delicious baked goods, as well as nutritional and dietary information. This baking cookbook is great for everyone and includes gluten-free, vegetarian, and vegan recipes as well!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418174728"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8418174722"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_mKREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_mKREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=_mKREAAAQBAJ&dq=harry&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=_mKREAAAQBAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_cocina_de_Hogwarts_The_Official_Harry.html?hl=&id=_mKREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_mKREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ENGLISH DESCRIPTION #1 NEW YORK TIMES BESTSELLER! Bake your way through Hogwarts School of Witchcraft and Wizardry! Inspired by the films, this is the ONE and ONLY official Harry Potter cookbook!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "snlKAQAAMAAJ",
+      "etag": "JruO7thparg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/snlKAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Claverings",
+        "authors": [
+          "Anthony Trollope"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:16128477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "categories": [
+          "England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=snlKAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=snlKAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=snlKAQAAMAAJ&pg=PA127&dq=harry&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=snlKAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=snlKAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=snlKAQAAMAAJ&rdid=book-snlKAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Claverings.epub?id=snlKAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=snlKAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> Clavering . &quot; DEAR <b>HARRY</b> , -I am back in town . Pray come and see me to - morrow evening . &quot; Yours ever , &quot; J. O. &quot; CHAPTER XIV . COUNT PATEROFF AND HIS SISTER . AFTER an interval of some weeks , during which <b>Harry</b> had been&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LBEYAAAAYAAJ",
+      "etag": "2GEIJ5FnJpA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LBEYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Youth's Speaker",
+        "authors": [
+          "George Rhett Cathcart"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN1TEK"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Recitations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LBEYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LBEYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=LBEYAAAAYAAJ&pg=PP167&dq=harry&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LBEYAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LBEYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LBEYAAAAYAAJ&rdid=book-LBEYAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/Youth_s_Speaker.epub?id=LBEYAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/Youth_s_Speaker.pdf?id=LBEYAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1d6n1GmOwp2cuADA4vY6rWRVwOQg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LBEYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> . He shot the tyrant at Lake Altorf . <b>Harry</b> . You are right ; but my head aches so that I am obliged to leave you . Good day . [ Exit <b>HARRY</b> , with both hands pressed to his forehead . Willie . Come , cousin , it is dinner&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BieAAAAMAAJ",
+      "etag": "f26IHwqd/GM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BieAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Reasonable Children",
+        "subtitle": "Moral Education and Moral Learning",
+        "authors": [
+          "Michael S. Pritchard"
+        ],
+        "publishedDate": "1996",
+        "description": "The public outcry for a return to moral education in our schools has raised more dust than it's dispelled. Building upon his provocative ideas in On Becoming Responsible, Michael Pritchard clears the air with a sensible plan for promoting our children's moral education through the teaching of reasonableness. Pritchard contends that children have a definite but frequently untapped capacity for reasonableness and that schools in a democratic society must make the nurturing of that capacity one of their primary aims, as fundamental to learning as the development of reading, writing, and math skills. Reasonableness itself, he shows, can be best cultivated through the practice of philosophical inquiry within a classroom community. In such an environment, children learn to work together, to listen to one another, to build on one another's ideas, to probe assumptions and different perspectives, and ultimately to think for themselves. Advocating approaches to moral education that avoid mindless indoctrination and timid relativism, Pritchard neither preaches nor hides behind abstractions. He makes liberal use of actual classroom dialogues to illustrate children's remarkable capacity to engage in reasonable conversation about moral concepts involving fairness, cheating, loyalty, truthtelling, lying, making and keeping promises, obedience, character, and responsibility. He also links such discussions to fundamental concerns over law and moral authority, the roles of teachers and parents, and the relationship between church and state. Pritchard draws broadly and deeply from the fields of philosophy and psychology, as well as from his own extensive personal experience working with children and teachers. The result is a rich and insightful work that provides real hope for the future of our children and their moral education.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015035771289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BieAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BieAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=9BieAAAAMAAJ&pg=PA34&dq=harry&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=9BieAAAAMAAJ&dq=harry&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reasonable_Children.html?hl=&id=9BieAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BieAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> — and to read- ers of the story - is that even those whose thinking is logically flawed may have something important to contribute . When we ask how some- one arrives at even an obviously incorrect answer , we see that he or she&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6UIEAAAAQAAJ",
+      "etag": "2WztQJK4Czk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6UIEAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Mothers' treasury",
+        "publishedDate": "1723",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:555007866"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6UIEAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6UIEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.ar/books?id=6UIEAAAAQAAJ&pg=PA79&dq=harry&hl=&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6UIEAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6UIEAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=6UIEAAAAQAAJ&rdid=book-6UIEAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Mothers_treasury.epub?id=6UIEAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.ar/books/download/The_Mothers_treasury.pdf?id=6UIEAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1SYKbY0XNYzxGdHJkLq_77iM72Rg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6UIEAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Harry</b> Gray wanted to go . They were not going to rob anybody&#39;s trees ; they were going with the leave of the owner of a great grove of walnuts . But <b>Harry</b> hesitated . &quot; Go ! &quot; cried the boys ; &quot; What&#39;s to hinder ? &quot; <b>Harry</b> knew . He had&nbsp;..."
+      }
+    }
+  ]
+}
