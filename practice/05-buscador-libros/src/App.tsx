@@ -1,28 +1,39 @@
 import { useState } from "react";
 import "./App.css";
 
-import bookData from "./mocks/volumes.json";
-
 import dompurify from "dompurify";
+import { useBooks } from "./hooks/useBooks";
+import { Book } from "./models/Book";
 
 function App() {
-  const [books, setBooks] = useState(bookData.items);
+  const [search, setSearch] = useState("");
   const sanitizer = dompurify.sanitize;
+  const { books, totalItems, loading, getBooks } = useBooks({ search });
 
-  console.log(books);
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearch(e.target.value);
+  };
+
+  const handelSearch = (e) => {
+    // if (e.key !== "Enter") return;
+
+    console.log("search", search);
+    getBooks({ search });
+  };
+
+  console.log({ books });
 
   return (
     <>
       <header>
-        <h1>Bookstore</h1>
-        <input type="text" />
-        <button>Buscar</button>
+        <input onChange={handleChange} value={search} type="text" />
+        <button onClick={handelSearch}>Buscar</button>
       </header>
 
       <main>
         <aside className="aside">
           {/* TODO: formatear numero */}
-          <p>1234 resultados</p>
+          <p>{totalItems} resultados</p>
 
           <p>Tipo de documento</p>
           <input type="text" />
@@ -31,30 +42,40 @@ function App() {
         {/* @TODO: agregar orderBy */}
         {/* @TODO: agregar máxima cantidad de resultados */}
         <section>
-          {books.map((book, index) => (
-            <div className="card" key={index}>
-              <div className="imageContainer">
-                <img src={book.volumeInfo.imageLinks.smallThumbnail} alt="" />
-              </div>
-              <div className="cardContent">
-                <h1 className="bookTitle">{book.volumeInfo.title}</h1>
-                <p className="bookAuthor">{book.volumeInfo.authors} | 2023</p>
-                <p
-                  className="bookDescription"
-                  dangerouslySetInnerHTML={{
-                    __html: sanitizer(book.searchInfo?.textSnippet ?? ""),
-                  }}
-                ></p>
-                <p className="bookPrice">$30.000 USD</p>
+          {!loading && books.length === 0 && <p>No hay resultados</p>}
+          {loading && <p>Cargando...</p>}
+          {!loading &&
+            books &&
+            books.map((book: Book) => (
+              <div className="card" key={book.id}>
+                <div className="imageContainer">
+                  <img src={book.imgSrc} alt={book.title} />
+                </div>
+                <div className="cardContent">
+                  <h1 className="bookTitle">{book.title}</h1>
+                  <p className="bookAuthor">{book.authors} | 2023</p>
+                  <p
+                    className="bookDescription"
+                    dangerouslySetInnerHTML={{
+                      __html: sanitizer(book.description),
+                    }}
+                  ></p>
 
-                {/*TODO: agregar tags */}
-                <span className="tags">
-                  <span className="pdf">pdf</span>
-                  <span className="epub">epub</span>
-                </span>
+                  {/* @TODO: convertir la moneda */}
+                  <p className="bookPrice">$30.000 USD</p>
+
+                  {/*TODO: agregar tags */}
+
+                  {book.ebooks && (
+                    <span className="tags">
+                      {book.ebooks.map((ebook) => (
+                        <span className={ebook.format}>{ebook.format}</span>
+                      ))}
+                    </span>
+                  )}
+                </div>
               </div>
-            </div>
-          ))}
+            ))}
 
           {/* @TODO: agregar paginación */}
         </section>

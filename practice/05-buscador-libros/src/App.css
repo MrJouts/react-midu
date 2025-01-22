@@ -114,6 +114,7 @@ aside {
     color: white;
     padding: 4px 8px;
     border-radius: 4px;
+    background-color: #ddd;
   }
 
   .pdf {
