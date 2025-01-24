@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding-block: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  justify-content: center;
+  position: relative;
+  gap: 6px;
+
+  .searchInput {
+    width: 100%;
+    flex: 1 1 100%;
+  }
+}

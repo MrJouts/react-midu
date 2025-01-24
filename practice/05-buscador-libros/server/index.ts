@@ -1,7 +1,9 @@
 import express from "express";
 import axios from "axios";
+import cors from "cors";
 
 const app = express();
+app.use(cors());
 
 // Define the interface for the transformed item
 interface TransformedItem {
@@ -11,13 +13,12 @@ interface TransformedItem {
 }
 
 app.get("/volumes", (req: express.Request, res: express.Response) => {
-  const { q } = req.query;
+  const { q, type } = req.query;
 
   axios
-    .get(`https://www.googleapis.com/books/v1/volumes?q=${q}`)
+    .get(`https://www.googleapis.com/books/v1/volumes?q=${q}&printType=${type}`)
     .then((response) => {
       console.log(response.data.items);
-
 
       // Transform response
       const transformedItems: TransformedItem[] = response.data.items.map(
@@ -30,10 +31,17 @@ app.get("/volumes", (req: express.Request, res: express.Response) => {
             description: item.searchInfo
               ? item.searchInfo.textSnippet
               : "No description available",
-              ebooks: [
-                { format: "pdf", isAvailable: item.accessInfo?.pdf?.isAvailable || false },
-                { format: "epub", isAvailable: item.accessInfo?.epub?.isAvailable || false },
-              ],
+            ebooks: [
+              {
+                format: "pdf",
+                isAvailable: item.accessInfo?.pdf?.isAvailable || false,
+              },
+              {
+                format: "epub",
+                isAvailable: item.accessInfo?.epub?.isAvailable || false,
+              },
+            ],
+            price: item.saleInfo?.listPrice?.amount || 0,
           };
         }
       );

@@ -1,8 +1,9 @@
 export interface Book {
   id: string;
+  imgSrc: string;
   title: string;
   authors: string[];
-  imgSrc: string;
+  price: number;
   description: string;
   ebooks?: Ebook[];
 }
